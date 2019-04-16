@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Student&#039;s Kingdom</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Success at your fingertips!</description>
+	<lastBuildDate>Sat, 13 Apr 2019 08:07:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.3</generator>
+
+<image>
+	<url>./../wp-content/uploads/2019/04/cropped-abstract-white-background-3d-graphics-640x960-wallpaper-32x32.jpg</url>
+	<title>Student&#039;s Kingdom</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title></title>
+		<link>./../2019/04/13/5/index.html</link>
+		<comments>./../2019/04/13/5/index.html#respond</comments>
+		<pubDate>Sat, 13 Apr 2019 08:07:42 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">./../index.html?p=5</guid>
+		<description><![CDATA[Welcome to the world of knowledge!!!!!!!!!!!!!!! Here you can get everything that you want. Ebooks, Sample papers, Study Notes and Much more]]></description>
+				<content:encoded><![CDATA[
+<p style="background-color:#4d9aba;font-size:23px" class="has-background">Welcome to the world of knowledge!!!!!!!!!!!!!!!</p>
+
+
+
+<p>Here you can get everything that you want. Ebooks, Sample papers, Study Notes and Much more</p>
+]]></content:encoded>
+			<wfw:commentRss>./../2019/04/13/5/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hello world!</title>
+		<link>./../2019/04/13/hello-world/index.html</link>
+		<comments>./../2019/04/13/hello-world/index.html#comments</comments>
+		<pubDate>Sat, 13 Apr 2019 08:04:38 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">./../index.html?p=1</guid>
+		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+				<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+			<wfw:commentRss>./../2019/04/13/hello-world/feed/index.html</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
